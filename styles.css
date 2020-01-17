@@ -1,0 +1,38 @@
+.wholebody{
+	width: 80%;
+	margin:  0 auto;
+	text-align: center;
+}
+
+h1{
+	font-size:5em;
+}
+#logobottom{
+	width: 500px;
+}
+
+nav, footer {
+	padding: 20px;
+	text-align: center;
+	margin: 20px 10px 20px 10px;
+}
+
+ul#navbar li{
+	display: inline;
+	background-color: red;
+	font-size:2.5em;
+	color:white;
+}
+.picdesc{
+	font-size:2.5em;
+}
+
+#nameinheader {
+	font-size:2em;
+}
+header{
+	background-color: grey;
+}
+footer{
+	background-color: grey;
+}
