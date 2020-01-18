@@ -11,28 +11,45 @@ h1{
 	width: 500px;
 }
 
-nav, footer {
-	padding: 20px;
+nav{
+	padding: 5px;/*Removes the gap between picture and navbar*/
+	text-align: right;
+	background-color: #c65252;
+	margin: 0px 0px 0px 0px; 
+}
+footer{
+	padding: 30px;
 	text-align: center;
-	margin: 20px 10px 20px 10px;
+	margin: 430px 10px 0px 10px; /*Top Right Bottom Left*/
 }
 
 ul#navbar li{
 	display: inline;
-	background-color: red;
 	font-size:2.5em;
 	color:white;
+	margin: 0px 80px 0px 0px;
+
 }
 .picdesc{
 	font-size:2.5em;
 }
 
-#nameinheader {
-	font-size:2em;
+#nameinheader{
+	font-size:2.5em;
+	float:left;
+	margin: 80px 0px 0px 200px;
+
 }
-header{
-	background-color: grey;
+header,footer{
+	background-color: #cabbb7;
 }
-footer{
-	background-color: grey;
+
+
+#leftpic{
+	width: 45%;
+    float: left; 
+}
+#rightpic{
+    width: 45%;
+   float: left; 
 }
