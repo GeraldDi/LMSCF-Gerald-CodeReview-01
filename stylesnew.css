@@ -8,9 +8,6 @@
 h1{
 	font-size:5em;
 }
-#logobottom{
-	width: 500px;
-}
 
 nav{
 	padding: 5px;/*Removes the gap between picture and navbar*/
@@ -21,14 +18,14 @@ nav{
 footer{
 	padding: 30px;
 	text-align: center;
-	margin: 530px 10px 0px 10px; /*Top Right Bottom Left*/
+	margin: 9% 10px 0px 10px; /*Top Right Bottom Left*/
 }
 
 ul#navbar li{
 	display: inline;
 	font-size:2.5em;
 	color:white;
-	margin: 0px 80px 0px 0px;
+	margin: 0px 2% 0px 0px;
 
 }
 .picdesc{
@@ -38,7 +35,7 @@ ul#navbar li{
 #nameinheader{
 	font-size:2.5em;
 	float:left;
-	margin: 50px 0px 0px 200px;
+	margin: 4% 0px 0px 2%;
 
 }
 header,footer{
@@ -49,19 +46,10 @@ header,footer{
 #leftpic{
 	width: 45%;
     float: left; 
-    margin: 0px 0px 0px 70px;
+    margin: 0px 0px 0px 5%;
 }
 #rightpic{
     width: 45%;
    float: right; 
-   margin: 0px 70px 0px 0px;
-}
-
-h2{
-	color:white;
-	font-size: 3.5em;
-	background-color:darkblue;
-	margin: 0px 0px 0px 0px;
-	padding: 100px;
-	font-weight: bold;
+   margin: 0px 5% 0px 0px;
 }
